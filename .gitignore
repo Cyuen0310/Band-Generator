@@ -1,6 +1,8 @@
 # hidden DS_Store
 .DS_Store
 
+node_modules/
+
 # Logs
 logs
 *.log
